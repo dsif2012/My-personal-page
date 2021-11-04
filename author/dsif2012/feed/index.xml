@@ -11,31 +11,55 @@
 	<title>dsif2012 &#8211; 日廣的個人網頁</title>
 	<atom:link href="/author/dsif2012/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
-	<description>全新的繁體中文 WordPress 網站</description>
-	<lastBuildDate>Thu, 04 Nov 2021 08:10:18 +0000</lastBuildDate>
+	<description></description>
+	<lastBuildDate>Thu, 04 Nov 2021 08:55:31 +0000</lastBuildDate>
 	<language>zh-TW</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.8.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2021/11/cropped-cropped-曾曠頭像圓形-32x32.png</url>
+	<title>dsif2012 &#8211; 日廣的個人網頁</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
-		<title>網站第一篇文章</title>
-		<link>/2021/11/04/hello-world/</link>
-					<comments>/2021/11/04/hello-world/#comments</comments>
+		<title>測試文章2</title>
+		<link>/2021/11/04/%e6%b8%ac%e8%a9%a6%e6%96%87%e7%ab%a02/</link>
+					<comments>/2021/11/04/%e6%b8%ac%e8%a9%a6%e6%96%87%e7%ab%a02/#respond</comments>
 		
 		<dc:creator><![CDATA[dsif2012]]></dc:creator>
-		<pubDate>Thu, 04 Nov 2021 08:10:18 +0000</pubDate>
+		<pubDate>Thu, 04 Nov 2021 08:55:31 +0000</pubDate>
 				<category><![CDATA[未分類]]></category>
-		<guid isPermaLink="false">/?p=1</guid>
+		<guid isPermaLink="false">/?p=66</guid>
 
-					<description><![CDATA[歡迎使用 WordPress。這是這個網站的第一篇文章，試試為這篇文章進行編輯或直接刪除，然後開始撰寫新文章！]]></description>
-										<content:encoded><![CDATA[
-<p>歡迎使用 WordPress。這是這個網站的第一篇文章，試試為這篇文章進行編輯或直接刪除，然後開始撰寫新文章！</p>
-]]></content:encoded>
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
 					
-					<wfw:commentRss>/2021/11/04/hello-world/feed/</wfw:commentRss>
-			<slash:comments>1</slash:comments>
+					<wfw:commentRss>/2021/11/04/%e6%b8%ac%e8%a9%a6%e6%96%87%e7%ab%a02/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>測試文章</title>
+		<link>/2021/11/04/%e6%b8%ac%e8%a9%a6%e6%96%87%e7%ab%a0/</link>
+					<comments>/2021/11/04/%e6%b8%ac%e8%a9%a6%e6%96%87%e7%ab%a0/#respond</comments>
+		
+		<dc:creator><![CDATA[dsif2012]]></dc:creator>
+		<pubDate>Thu, 04 Nov 2021 08:55:09 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<guid isPermaLink="false">/?p=64</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>/2021/11/04/%e6%b8%ac%e8%a9%a6%e6%96%87%e7%ab%a0/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
 		
 		
 			</item>
