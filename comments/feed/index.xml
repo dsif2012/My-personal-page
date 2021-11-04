@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	《日廣的個人網頁》的留言	</title>
-	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="http://dsif2012.github.io/My-personal-page/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>http://dsif2012.github.io/My-personal-page</link>
 	<description></description>
 	<lastBuildDate>Thu, 04 Nov 2021 08:55:31 +0000</lastBuildDate>
 	<sy:updatePeriod>

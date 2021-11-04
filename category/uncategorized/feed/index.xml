@@ -8,8 +8,8 @@
 	>
 
 <channel>
-	<title>日廣的個人網頁</title>
-	<atom:link href="http://dsif2012.github.io/My-personal-page/feed/" rel="self" type="application/rss+xml" />
+	<title>未分類 &#8211; 日廣的個人網頁</title>
+	<atom:link href="http://dsif2012.github.io/My-personal-page/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
 	<link>http://dsif2012.github.io/My-personal-page</link>
 	<description></description>
 	<lastBuildDate>Thu, 04 Nov 2021 08:55:31 +0000</lastBuildDate>
@@ -22,7 +22,7 @@
 
 <image>
 	<url>http://dsif2012.github.io/My-personal-page/wp-content/uploads/2021/11/cropped-cropped-曾曠頭像圓形-32x32.png</url>
-	<title>日廣的個人網頁</title>
+	<title>未分類 &#8211; 日廣的個人網頁</title>
 	<link>http://dsif2012.github.io/My-personal-page</link>
 	<width>32</width>
 	<height>32</height>
