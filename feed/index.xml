@@ -9,8 +9,8 @@
 
 <channel>
 	<title>日廣的個人網頁</title>
-	<atom:link href="http://dsif2012.github.io/My-personal-page/feed/" rel="self" type="application/rss+xml" />
-	<link>http://dsif2012.github.io/My-personal-page</link>
+	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
 	<description></description>
 	<lastBuildDate>Thu, 04 Nov 2021 08:55:31 +0000</lastBuildDate>
 	<language>zh-TW</language>
@@ -21,44 +21,44 @@
 	<generator>https://wordpress.org/?v=5.8.1</generator>
 
 <image>
-	<url>http://dsif2012.github.io/My-personal-page/wp-content/uploads/2021/11/cropped-cropped-曾曠頭像圓形-32x32.png</url>
+	<url>/wp-content/uploads/2021/11/cropped-cropped-曾曠頭像圓形-32x32.png</url>
 	<title>日廣的個人網頁</title>
-	<link>http://dsif2012.github.io/My-personal-page</link>
+	<link></link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>測試文章2</title>
-		<link>http://dsif2012.github.io/My-personal-page/2021/11/04/%e6%b8%ac%e8%a9%a6%e6%96%87%e7%ab%a02/</link>
-					<comments>http://dsif2012.github.io/My-personal-page/2021/11/04/%e6%b8%ac%e8%a9%a6%e6%96%87%e7%ab%a02/#respond</comments>
+		<link>/2021/11/04/%e6%b8%ac%e8%a9%a6%e6%96%87%e7%ab%a02/</link>
+					<comments>/2021/11/04/%e6%b8%ac%e8%a9%a6%e6%96%87%e7%ab%a02/#respond</comments>
 		
 		<dc:creator><![CDATA[dsif2012]]></dc:creator>
 		<pubDate>Thu, 04 Nov 2021 08:55:31 +0000</pubDate>
 				<category><![CDATA[未分類]]></category>
-		<guid isPermaLink="false">http://dsif2012.github.io/My-personal-page/?p=66</guid>
+		<guid isPermaLink="false">/?p=66</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
 					
-					<wfw:commentRss>http://dsif2012.github.io/My-personal-page/2021/11/04/%e6%b8%ac%e8%a9%a6%e6%96%87%e7%ab%a02/feed/</wfw:commentRss>
+					<wfw:commentRss>/2021/11/04/%e6%b8%ac%e8%a9%a6%e6%96%87%e7%ab%a02/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>測試文章</title>
-		<link>http://dsif2012.github.io/My-personal-page/2021/11/04/%e6%b8%ac%e8%a9%a6%e6%96%87%e7%ab%a0/</link>
-					<comments>http://dsif2012.github.io/My-personal-page/2021/11/04/%e6%b8%ac%e8%a9%a6%e6%96%87%e7%ab%a0/#respond</comments>
+		<link>/2021/11/04/%e6%b8%ac%e8%a9%a6%e6%96%87%e7%ab%a0/</link>
+					<comments>/2021/11/04/%e6%b8%ac%e8%a9%a6%e6%96%87%e7%ab%a0/#respond</comments>
 		
 		<dc:creator><![CDATA[dsif2012]]></dc:creator>
 		<pubDate>Thu, 04 Nov 2021 08:55:09 +0000</pubDate>
 				<category><![CDATA[未分類]]></category>
-		<guid isPermaLink="false">http://dsif2012.github.io/My-personal-page/?p=64</guid>
+		<guid isPermaLink="false">/?p=64</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
 					
-					<wfw:commentRss>http://dsif2012.github.io/My-personal-page/2021/11/04/%e6%b8%ac%e8%a9%a6%e6%96%87%e7%ab%a0/feed/</wfw:commentRss>
+					<wfw:commentRss>/2021/11/04/%e6%b8%ac%e8%a9%a6%e6%96%87%e7%ab%a0/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
