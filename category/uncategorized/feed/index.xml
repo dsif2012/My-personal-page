@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>未分類 &#8211; 日廣個人網頁</title>
+	<atom:link href="http://dsif2012.github.io/My-personal-page/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>http://dsif2012.github.io/My-personal-page</link>
+	<description></description>
+	<lastBuildDate>Thu, 04 Nov 2021 13:44:44 +0000</lastBuildDate>
+	<language>zh-TW</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+
+<image>
+	<url>http://dsif2012.github.io/My-personal-page/wp-content/uploads/2021/11/cropped-cropped-cropped-cropped-曾曠頭像圓形-32x32.png</url>
+	<title>未分類 &#8211; 日廣個人網頁</title>
+	<link>http://dsif2012.github.io/My-personal-page</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>測試文章1</title>
+		<link>http://dsif2012.github.io/My-personal-page/2021/11/04/%e6%b8%ac%e8%a9%a6%e6%96%87%e7%ab%a01/</link>
+					<comments>http://dsif2012.github.io/My-personal-page/2021/11/04/%e6%b8%ac%e8%a9%a6%e6%96%87%e7%ab%a01/#respond</comments>
+		
+		<dc:creator><![CDATA[dsif2012]]></dc:creator>
+		<pubDate>Thu, 04 Nov 2021 13:44:44 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<guid isPermaLink="false">http://dsif2012.github.io/My-personal-page/?p=85</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>http://dsif2012.github.io/My-personal-page/2021/11/04/%e6%b8%ac%e8%a9%a6%e6%96%87%e7%ab%a01/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
